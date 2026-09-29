@@ -1,0 +1,13 @@
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\bin\x86\Release\CrystalRunner.exe.config
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\bin\x86\Release\CrystalRunner.exe
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\bin\x86\Release\CrystalRunner.pdb
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\bin\x86\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\bin\x86\Release\CrystalDecisions.Shared.dll
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\obj\x86\Release\CrystalRunner.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\obj\x86\Release\CrystalRunner.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\obj\x86\Release\CrystalR.98972795.Up2Date
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\obj\x86\Release\CrystalRunner.exe
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\obj\x86\Release\CrystalRunner.pdb
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\bin\x86\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Felipe\Documents\Projetos\ArturAlaorD12\CrystalRunner\CrystalRunner\CrystalRunner\bin\x86\Release\Newtonsoft.Json.xml
